@@ -1,3 +1,8 @@
+Simple React Typescript app for getting GeoJSON features from openstreetmap API based on geolocation box coordinates.
+
+![](demo.gif)
+![](test-coverage.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
